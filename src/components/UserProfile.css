@@ -30,3 +30,10 @@
     text-transform: capitalize;
     font-size: 15px;
 }
+
+.user-lastmessage {
+    font-size: 13px;
+    margin-left: 1px;
+    margin-top: 2px;
+    color: gray;
+}
